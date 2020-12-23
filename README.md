@@ -10,3 +10,11 @@ Note, if you are going to need this script in an application that uses elevated 
 ## How it works.
 
 When you press the capslock key and then type in numbers using the number row, this script changes it so that the system thinks that you are pressing the numpad keys. This is useful for quickly typing in special characters. For example, to type ‘ you would need to press alt+numpad 0145. With this script, all you need to do is press capslock, then hold down alt+ 0145.
+## Having problems? 
+
+Feel free to open a new issue.
+
+## Contributing.
+
+If you would like to contribute to the code, please open a pull request.
+
